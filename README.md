@@ -19,7 +19,7 @@ Struktur folder dan file utama dalam proyek ini adalah sebagai berikut:
 
 Jika Anda menggunakan file ZIP, ikuti langkah-langkah berikut:
 
-1. Ekstrak file ZIP melalui link https://github.com/sofiasfmld/Bike.
+1. Ekstrak file ZIP melalui link [https://github.com/sofiasfmld/Bike](https://github.com/sofiasfmld/bike-sharing).
 2. Buka terminal dan arahkan ke direktori tempat file ZIP diekstrak.
 3. Instal dependensi dari `requirements.txt`:
    ```bash
@@ -36,7 +36,7 @@ Jika Anda menggunakan file ZIP, ikuti langkah-langkah berikut:
 
 Anda juga dapat mengakses versi dashboard yang telah dideploy melalui tautan berikut:
 
-[Dashboard yang sudah dideploy](https://app-dashboard-mtuc8jpwft8exmrrvvdhz8.streamlit.app/)
+[Dashboard yang sudah dideploy](https://bike-sharing-xvu8omrqtbkzvu5mcz2qtc.streamlit.app/)
 
 
 ## Analisis di Jupyter Notebook
